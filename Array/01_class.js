@@ -19,10 +19,25 @@
 //   method() {}
 // }
 
-class Car {
+// class Car {
+//   constructor(name, year) {
+//     this.name = name;
+//     this.year = year;
+//   }
+
+//   age() {
+//     const date = new Date();
+//     return date.getFullYear() - this.year;
+//   }
+// }
+
+// const MyCar = new Car("Tesla", 2024);
+
+// console.log(`My Car age is ${MyCar.age()} year.`);
+
+class car {
   constructor(name, year) {
-    this.name = name;
-    this.year = year;
+    (this.name = name), (this.year = year);
   }
 
   age() {
@@ -31,6 +46,5 @@ class Car {
   }
 }
 
-const MyCar = new Car("Tesla", 2024);
-
-console.log(`My Car age is ${MyCar.age()} year.`);
+const MyCar = new car("Tesla", 2024);
+console.log(MyCar.age());
