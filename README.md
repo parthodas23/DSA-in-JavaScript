@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in JavaScript
 
-A comprehensive collection of Data Structures and Algorithms implemented in JavaScript. This repository is designed to help you understand and practice essential concepts for coding interviews and real-world applications.
+A comprehensive collection of Data Structures and Algorithms implemented in JavaScript. This repository is designed to help me and you understand and practice essential concepts for coding interviews and real-world applications.
 
 ## 📚 Topics Covered
 
