@@ -12,5 +12,4 @@ A comprehensive collection of Data Structures and Algorithms implemented in Java
 - **Searching Algorithms** (Linear, Binary)
 - **Trees** (Binary Trees, BST, AVL, Trie, Heap)
 - **Graphs** (BFS, DFS, Dijkstra's, Prim's, Kruskal's)
-
 ---
